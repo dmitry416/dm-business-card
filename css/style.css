@@ -25,6 +25,11 @@ h1, h2 {
     width: 5%; /* логотип 5% от блока */
 }
 
+.login-box {
+    border: 1px solid #3f3;
+    box-shadow: 0 0 12px #3f3;
+}
+
 .hacker-img {
     max-width: 50%;
     height: auto;

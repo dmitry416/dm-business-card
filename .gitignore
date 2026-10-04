@@ -1,0 +1,4 @@
+hack_site.sqlite
+upload/*
+!upload/.gitkeep
+.claude/
